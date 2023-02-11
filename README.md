@@ -11,4 +11,6 @@ The backend files constituting the energy storage models are in [backend](backen
 
 ### Overview
 
-The backend files for the THESEUS framework are divided into battery and non-battery models. The operational models for the battery technologies have a similar form, such as the dependence of voltage on the internal battery state. Thus, they are represented in a similar way, and are given in [battery](backend/battery).
+1. The backend files for the THESEUS framework are divided into battery and non-battery models. 
+
+2. The operational models for the battery technologies have a similar form, such as the dependence of voltage on the internal battery state. Thus, they are represented in a similar way, and are given in [battery](backend/battery). This folder contains the files for Li-ion, NaS and VRFB batteries with representative inputs. Here, battery_test.gms is the main model file and the rest are files for input specifications.
