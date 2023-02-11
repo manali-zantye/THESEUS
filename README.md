@@ -11,4 +11,4 @@ The backend files constituting the energy storage models are in [backend](backen
 
 ### Overview
 
-The backend files for the THESEUS framework are divided into battery and non-battery models. The operational models for the battery technologies have a similar form, such as the dependence of voltage on the internal battery state. Thus, they are represented in a similar way, and are given in [battery](battery).
+The backend files for the THESEUS framework are divided into battery and non-battery models. The operational models for the battery technologies have a similar form, such as the dependence of voltage on the internal battery state. Thus, they are represented in a similar way, and are given in [battery](backend/battery).
